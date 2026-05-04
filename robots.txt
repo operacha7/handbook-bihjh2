@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://operacha7.github.io/handbook-bihjh2/sitemap.xml
